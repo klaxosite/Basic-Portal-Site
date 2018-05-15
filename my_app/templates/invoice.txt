@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <title>Altimit Sales Platform</title>
+ 
+ 
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+ 
+ 
+</head>
+ 
+<body>
+ 
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    <li role="presentation" class="active"><a href="index">Home</a>
+                    </li>
+                    <li role="presentation"><a href="invoice">Invoice</a>
+                    </li>
+                    <li role="presentation"><a href="payment">Payments</a>
+                    </li>
+					<li role="presentation"><a href="orders">Orders</a>
+					</li>
+					<li role="presentation"><a href="customers">Customers</a>
+					</li>
+					<li role="presetnation"><a href="shipping">Shipping</a>
+					</li>
+					<li role="presentation"><a href="inventory">Inventory</a>
+					</li>
+                </ul>
+            </nav>
+            <h3 class="text-muted">ALTIMIT</h3>
+        </div>
+ 
+
+ 
+        <div class="row marketing">
+            <div class="col-lg-6">
+                <h4>Bucket List</h4>
+                <p>Welcome to the ALTIMIT Simple Sales platform where you can access your companies information!</p>
+
+            </div>
+ 
+        </div>
+ 
+        <footer class="footer">
+            <p>&copy; Company 2017</p>
+        </footer>
+ 
+    </div>
+</body>
+ 
+</html>
